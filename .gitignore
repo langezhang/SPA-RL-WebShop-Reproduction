@@ -1,0 +1,8 @@
+# 本次发布为文档档案，采用文件白名单。
+# 后续添加复现代码时，应有选择地更新本规则。
+*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/docs/
+!/docs/*.md
