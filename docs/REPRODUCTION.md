@@ -1,10 +1,10 @@
 # 复现路线与代码入口
 
-本文提供官方代码导航与补充材料清单。**本仓库当前收录复现笔记与截图，完整训练实现尚未纳入；以下官方入口未在本次整理过程中执行。** 历史执行情况见[复现笔记](NOTES.md)。
+本文提供官方代码导航与补充材料清单。本仓库当前收录复现笔记与截图，完整训练实现尚未纳入；以下官方入口未在本次整理过程中执行。 历史执行情况见[复现笔记](NOTES.md)。
 
 ## 获取官方实现
 
-[SPA-RL 官方仓库](https://github.com/WangHanLinHenry/SPA-RL-Agent) 由原作者维护。本文核对路径时参考的提交为 [`b1ccd776d990278fee5f42b2050bb35638f5ac1b`](https://github.com/WangHanLinHenry/SPA-RL-Agent/tree/b1ccd776d990278fee5f42b2050bb35638f5ac1b)。这只是代码导航的参考版本，**不是本项目历史实验所用版本的证明**。
+[SPA-RL 官方仓库](https://github.com/WangHanLinHenry/SPA-RL-Agent) 由原作者维护。本文核对路径时参考的提交为 [`b1ccd776d990278fee5f42b2050bb35638f5ac1b`](https://github.com/WangHanLinHenry/SPA-RL-Agent/tree/b1ccd776d990278fee5f42b2050bb35638f5ac1b)。这只是代码导航的参考版本，不是本项目历史实验所用版本的证明。
 
 如需继续研究，可在本档案目录之外单独获取官方实现：
 
@@ -18,7 +18,7 @@ git checkout b1ccd776d990278fee5f42b2050bb35638f5ac1b
 
 ## 官方阶段入口
 
-下表路径均相对于**官方实现目录**，不位于本仓库内。
+下表路径均相对于官方实现目录，不位于本仓库内。
 
 | 阶段 | 官方路径 |
 | --- | --- |
