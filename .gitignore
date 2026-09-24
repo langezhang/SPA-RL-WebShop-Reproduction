@@ -6,3 +6,6 @@
 !/README.md
 !/docs/
 !/docs/*.md
+!/assets/
+!/assets/evidence/
+!/assets/evidence/*.png
