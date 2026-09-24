@@ -9,3 +9,5 @@
 !/assets/
 !/assets/evidence/
 !/assets/evidence/*.png
+!/assets/diagrams/
+!/assets/diagrams/*.png
